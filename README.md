@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://www.linkedin.com/in/mayuri-parkhe-7aa1b7180/ mayuripark@gmail.com 
 <!-- I am Mayuri Parkhe. I am an EXTC engineer. I have my interest in Python programming and artifical intelligence. I have basic knowledge about MATLAB and LabVIEW NI. I like to research on new topics.  
 **mayuripark/mayuripark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
