@@ -4,7 +4,7 @@ I am Mayuri Parkhe. I am an EXTC engineer. I have my interest in Python programm
 
 🔭 I’m currently working on a Python and machine learning project
 
-🌱 I’m currently learning OpenCV, NLP
+🌱 I’m currently learning OpenCV, NLP, ML
 
 👯 I’m looking to collaborate on Web Development 
 
