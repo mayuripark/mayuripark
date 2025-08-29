@@ -14,6 +14,6 @@ I am Mayuri Parkhe. I am a software engineer. I have my interest Web Development
 
 📫 How to reach me: mayuripark@gmail.com
 
-😄 Pronouns: Geek
+😄 Pronouns: Human
 
 ⚡ Fun fact: I don't know what's funny about me.
